@@ -100,8 +100,7 @@ double-ratchet/
 │
 ├── double_ratchet.py
 ├── README.md
-├── requirements.txt
-└── LICENSE
+
 ```
 
 ---
